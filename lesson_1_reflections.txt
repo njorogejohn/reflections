@@ -1,0 +1,7 @@
+Versions would help trace the changes made within the project in the due course of time. This would increase code reusability. 
+
+Allow for programmer's judgement on commits. However, poor judgement may result in versions that don't work. 
+
+Multiple-tracking iis important especially in coding where files are inter-related and dependent.
+
+Git log and diff can be used to check on the changes of code between two commits. The log gets you the commits then check for the difference between them.
